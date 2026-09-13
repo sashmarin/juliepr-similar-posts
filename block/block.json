@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "juliepr/similar-posts",
+	"version": "1.0.0",
+	"title": "Juliepr Similar Posts",
+	"category": "widgets",
+	"icon": "admin-post",
+	"textdomain": "juliepr-similar-posts",
+	"editorScript": "juliepr-similar-posts-block-editor",
+	"attributes": {
+		"number": {
+			"type": "integer",
+			"default": 3
+		},
+		"minYear": {
+			"type": "integer",
+			"default": 0
+		}
+	},
+	"supports": {
+		"html": false
+	}
+}

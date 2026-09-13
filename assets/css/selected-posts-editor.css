@@ -1,0 +1,25 @@
+.juliepr-similar-posts-search-results {
+	margin-top: 8px;
+}
+
+.juliepr-similar-posts-search-results .button {
+	display: block;
+	margin: 0 0 4px;
+	max-width: 100%;
+	overflow: hidden;
+	text-align: left;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.juliepr-similar-posts-selected-posts {
+	margin: 12px 0;
+}
+
+.juliepr-similar-posts-selected-posts li {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	justify-content: space-between;
+	margin: 4px 0;
+}

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Juliepr Similar Posts 1.0.0\\n"
+"Report-Msgid-Bugs-To: https://github.com/sashmarin/juliepr-similar-posts\\n"
+"POT-Creation-Date: 2026-09-02 00:00+0000\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"X-Domain: juliepr-similar-posts\\n"
+
+#: juliepr-similar-posts.php:3
+msgid "Juliepr Similar Posts"
+msgstr ""
+
+#: juliepr-similar-posts.php:77
+msgid "Similar Posts"
+msgstr ""
+
+#: juliepr-similar-posts.php:5
+msgid "Displays three random posts from the current post's primary top-level category."
+msgstr ""
+
+#: juliepr-similar-posts.php:103
+msgid "Delete all Similar Posts data (selected-posts post meta) when the plugin is uninstalled."
+msgstr ""
+
+#: juliepr-similar-posts.php:105
+msgid "Articles on a similar topic"
+msgstr ""
+
+#: juliepr-similar-posts.php:86
+msgid "Similar posts"
+msgstr ""
+
+#: juliepr-similar-posts.php:151
+msgid "Search posts by title"
+msgstr ""
+
+#: juliepr-similar-posts.php:154
+msgid "Start typing a post title…"
+msgstr ""
+
+#: juliepr-similar-posts.php:159
+msgid "Remove %s"
+msgstr ""
+
+#: juliepr-similar-posts.php:159
+#: juliepr-similar-posts.php:129
+msgid "Remove"
+msgstr ""
+
+#: juliepr-similar-posts.php:164
+msgid "Choose posts from the search results. Random published posts are shown only from this list; remove all posts to use the category."
+msgstr ""
+
+#: juliepr-similar-posts.php:128
+msgid "No published posts found."
+msgstr ""
+
+#: juliepr-similar-posts.php:129
+msgid "Searching…"
+msgstr ""
+
+#: juliepr-similar-posts.php:229
+msgid "You cannot search posts for this post."
+msgstr ""
